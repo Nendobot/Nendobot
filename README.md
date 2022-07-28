@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nendobot aka Ulises Mora
 
 - 👀 I'm working on 
-               ( becoming a Data Analyst :3 )
+               ( becoming a Data Analyst :3 , Google Data Analytics)
 
 - 🌱 I’m currently learning 
                ( R, ETL systems, and ML )
