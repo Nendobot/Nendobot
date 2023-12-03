@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Nendobot aka Ulises Mora
 
 - 👀 I'm working on 
-               ( becoming a Data Analyst :3 , Google Data Analytics)
+               ( Promotion to AppDev )
 
 - 🌱 I’m currently learning 
-               ( R, ETL systems, and ML )
+               ( C#, foundational front end)
                
 - 💞️ I’m looking to collaborate on 
-               ( DA projects, ML, or Deep Learning Projects! )
+               ( ML projects, anything about space )
 
 - 📫 How to reach me at 
                ( ulisesmorapro@gmail.com )
