@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nendobot aka Ulises Mora
 
 - 👀 I'm working on 
-               ( Promotion to AppDev )
+               ( Finding Dev Job)
 
 - 🌱 I’m currently learning 
                ( C#, foundational front end)
