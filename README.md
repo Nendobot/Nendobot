@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Nendobot aka Ulises Mora
 
 - 👀 I'm working on 
-               ( Finding Dev Job)
+               ( Open Source, and projects for portfolio)
 
 - 🌱 I’m currently learning 
-               ( C#, foundational front end)
+               ( C#, advanced front end, advanced Python)
                
 - 💞️ I’m looking to collaborate on 
-               ( ML projects, anything about space )
+               ( Anything about space! )
 
 - 📫 How to reach me at 
                ( ulisesmorapro@gmail.com )
