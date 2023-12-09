@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Nendobot aka Ulises Mora
 
 - 👀 I'm working on 
-               ( Open Source, and projects for portfolio)
+               ( Open Source Projects)
 
 - 🌱 I’m currently learning 
-               ( C#, advanced front end, advanced Python)
+               ( C#, ML)
                
 - 💞️ I’m looking to collaborate on 
                ( Anything about space! )
@@ -13,6 +13,6 @@
                ( ulisesmorapro@gmail.com )
 
 <!---
-Nendobot/Nendobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nendobot/Nendobot is ✨ special ✨ because its his `README.md`
 You can click the Preview link to take a look at your changes.
 --->
