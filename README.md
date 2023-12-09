@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on 
                ( Anything about space! )
 
-- 📫 How to reach me at 
+- 📫 Reach me at 
                ( ulisesmorapro@gmail.com )
 
 <!---
