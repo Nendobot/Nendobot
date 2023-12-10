@@ -4,7 +4,7 @@
                ( Open Source Projects)
 
 - 🌱 I’m currently learning 
-               ( C#, ML)
+               ( C#, Web Development)
                
 - 💞️ I’m looking to collaborate on 
                ( Anything about space! )
