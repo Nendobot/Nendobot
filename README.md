@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Nendobot aka Ulises Mora
 
 - 👀 I'm working on 
-               ( Open Source Projects)
+               ( Data Analysis focused on data gathered by JWST)
 
 - 🌱 I’m currently learning 
-               ( C#, Web Development)
+               ( Python, Machine Learning)
                
 - 💞️ I’m looking to collaborate on 
                ( Anything about space! )
